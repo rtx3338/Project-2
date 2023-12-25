@@ -1,2 +1,2 @@
 # Project 2
- Simple Webiste with HTML, CSS
+ Simple Website with HTML, CSS
