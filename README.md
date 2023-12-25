@@ -1,2 +1,2 @@
-# Porject 2
+# Project 2
  Simple Webiste with HTML, CSS
